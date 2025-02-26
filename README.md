@@ -1,5 +1,5 @@
 # **YouTube Interface Mimic**
-The YouTube Interface Mimic project is a web-based application developed using HTML and CSS. This project aims to replicate the appearance of YouTube’s interface while allowing users to interact with real videos and channels. This project serves as an exercise in front-end web development, focusing on UI design, layout structure, and integrating live video content through hyperlinks.
+The YouTube Interface Mimic project is an HTML and CSS web-based application. This project aims to replicate the appearance of YouTube’s interface while allowing users to interact with real videos and channels. This project serves as an exercise in front-end web development, focusing on UI design, layout structure, and integrating live video content through hyperlinks.
 
 # **Features:**
 - **Mimicked YouTube Interface**: The project replicates the look and feel of YouTube’s homepage, with key components such as the video player, sidebar, and video thumbnails.
